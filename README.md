@@ -8,38 +8,38 @@
   ig: https://www.instagram.com/bushwickayudamutua/
 ```
 
-  Here, `ig` is the path of short link, so you would then then share `baml.ink/ig` and it would point to `https://www.instagram.com/bushwickayudamutua/`. Please note that URLs are case-sensitive, so add multiple versions of the path to ensure people get where they're trying to go. You can also make versions in multiple languages this way, as well. Each line should have two-spaces of indentation before the path begins.
+Here, `ig` is the path of short link, so you would then then share `baml.ink/ig` and it would point to `https://www.instagram.com/bushwickayudamutua/`. Please note that URLs are case-sensitive, so add multiple versions of the path to ensure people get where they're trying to go. You can also make versions in multiple languages this way, as well. Each line should have two-spaces of indentation before the path begins.
 
-  Expand for examples:
+Expand for examples:
 
-  <details>
-  Good:
+<details>
+Good:
 
-  ```
-  urls:
-    goo: https://google.com
-    yoo: https://yahoo.com
-    moo: https://microsoft.com
-  ```
-
-  Bad:
-
-  ```
-  urls:
-    goo: https://google.com
+```
+urls:
+  goo: https://google.com
   yoo: https://yahoo.com
-    moo: https://microsoft.com
-  ```
+  moo: https://microsoft.com
+```
 
-  Bad:
+Bad:
 
-  ```
-  urls:
-    goo: https://google.com
-   yoo: https://yahoo.com
-    moo: https://microsoft.com
-  ```
-  </details>
+```
+urls:
+  goo: https://google.com
+yoo: https://yahoo.com
+  moo: https://microsoft.com
+```
+
+Bad:
+
+```
+urls:
+  goo: https://google.com
+ yoo: https://yahoo.com
+  moo: https://microsoft.com
+```
+</details>
 
 2. Save your changes in Github's editor and add a commit message describing the changes you made.
 3. Wait a few minutes and your link(s) should be live!
