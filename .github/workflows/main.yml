@@ -13,7 +13,7 @@ jobs:
     - name: Generate
       uses: brunoluiz/urlzap-github-action@v1
       with:
-        config: ./baml.yml
+        config: ./baml.yaml
 
     # Deplloy in Github Pages (you can use others)
     - name: Deploy
