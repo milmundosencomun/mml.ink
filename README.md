@@ -2,7 +2,7 @@
 
 ## How to add a short link
 
-1. Open [baml.yml](./baml.yml) and use Github's built-in editor to add a line under `urls:` that looks something like this:
+1. Open [baml.yaml](./baml.yaml) and use Github's built-in editor to add a line under `urls:` that looks something like this:
 
 ```
   ig: https://www.instagram.com/bushwickayudamutua/
