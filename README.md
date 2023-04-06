@@ -15,4 +15,4 @@ Here, `ig` is the path of short link, so you would then then share `baml.ink/ig`
 
 ## How this works
 
-This repository generates a static website hosted on github pages with individual HTML pages for each of our short links. These pages are created by a tool called [urlzap](https://github.com/brunoluiz/urlzap/) and automatically built each time the repo changes using the [urlzap github action](https://github.com/brunoluiz/urlzap-github-action/). To
+This repository generates a static website hosted on github pages with individual HTML pages for each of our short links. These pages are created by a tool called [urlzap](https://github.com/brunoluiz/urlzap/) and automatically built each time the repo changes using the [urlzap github action](https://github.com/brunoluiz/urlzap-github-action/).
