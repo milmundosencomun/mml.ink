@@ -9,7 +9,7 @@ BASE_URL = "https://baml.ink/"
 HERE = os.path.abspath(os.path.dirname(__file__))
 
 def main():
-    fp = os.path.join(HERE, 'baml.yml')
+    fp = os.path.join(HERE, 'baml.yaml')
     config = yaml.safe_load(open(fp))
     for short_name, url in config['urls'].items():
         short_url = BASE_URL + short_name
