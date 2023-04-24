@@ -44,7 +44,7 @@ urls:
 
 2. Save your changes in Github's editor and add a commit message describing the changes you made.
 3. Wait a few minutes and your link(s) should be live!
-4. There will also be an image of a QR code @ https://baml.ink/qr/{short_path}.png which will resolve to the short link.
+4. There will also be an image of a QR code @ [https://baml.ink/qr/{short_path}.png](https://baml.ink/qr/home.png) which will resolve to the short link.
 
 ## How this works
 
