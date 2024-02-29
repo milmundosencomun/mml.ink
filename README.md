@@ -46,6 +46,12 @@ urls:
 4. Wait a few minutes and your link(s) should be live!
 5. There will also be an image of a QR code @ [https://baml.ink/qr/{short_path}.png](https://baml.ink/qr/home.png) which will resolve to the short link.
 
+## QR Codes 
+
+You can view a list of all the qr codes and download them via [this link](https://github.com/bushwickayudamutua/baml.ink/tree/gh-pages/qr). 
+
+Alternatively, you can use the shortlink: https://baml.ink/qr
+
 ## How this works
 
 This repository generates a static website hosted on github pages with individual HTML pages for each of our short links. These pages are created by a tool called [urlzap](https://github.com/brunoluiz/urlzap/) and automatically built each time the repo changes using the [urlzap github action](https://github.com/brunoluiz/urlzap-github-action/). The static version of the site lives on the [gh-pages](https://github.com/bushwickayudamutua/baml.ink/tree/gh-pages) branch which is configured with the custom domain of `baml.ink`, which we configure in [gandi](https://gandi.net).
