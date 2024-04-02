@@ -55,4 +55,3 @@ Alternatively, you can use the shortlink: https://baml.ink/qr
 ## How this works
 
 This repository generates a static website hosted on github pages with individual HTML pages for each of our short links. These pages are created by a tool called [urlzap](https://github.com/brunoluiz/urlzap/) and automatically built each time the repo changes using the [urlzap github action](https://github.com/brunoluiz/urlzap-github-action/). The static version of the site lives on the [gh-pages](https://github.com/bushwickayudamutua/baml.ink/tree/gh-pages) branch which is configured with the custom domain of `baml.ink`, which we configure in [gandi](https://gandi.net).
-
