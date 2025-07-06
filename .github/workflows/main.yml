@@ -13,7 +13,7 @@ jobs:
     - name: Generate static site with urlzap
       uses: brunoluiz/urlzap-github-action@v1
       with:
-        config: ./baml.yaml
+        config: ./mml.yaml
 
     - name: setup python
       uses: actions/setup-python@v2

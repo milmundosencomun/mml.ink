@@ -1,6 +1,6 @@
 ANTI-CAPITALIST SOFTWARE LICENSE (v 1.4)
 
-Copyright © 2023 Bushwick Ayuda Mutua
+Copyright © 2025 Mil Mundos en Común
 
 This is anti-capitalist software, released for free use by individuals and organizations that do not operate by capitalist principles.
 
