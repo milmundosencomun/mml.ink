@@ -7,11 +7,11 @@ import yaml
 from PIL import ImageDraw, ImageFont
 
 
-DOMAIN = "mml.ink/"
+DOMAIN = "mmec.site/"
 HERE = os.path.abspath(os.path.dirname(__file__))
 
 def main():
-    fp = os.path.join(HERE, 'mml.yaml')
+    fp = os.path.join(HERE, 'mmec.yaml')
     config = yaml.safe_load(open(fp))
     for short_name, url in config['urls'].items():
         short_url = DOMAIN + short_name
